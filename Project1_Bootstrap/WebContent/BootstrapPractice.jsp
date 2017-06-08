@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta content="text/html; charset=UTF-8">
-	<title>Shopping Cart</title>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="text/html; charset=UTF-8">
+    <title>Shopping Cart</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- Note: Always put jQuery before CSS,JS -->
